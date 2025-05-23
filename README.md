@@ -24,9 +24,13 @@ The dataset used is `healthcare-dataset-stroke-data.csv`, which contains patient
 ## ⚙️ Project Structure
 
 AML_Project/
+
 ├── DT/
+
 │ ├── DescionTreeClassfier_Strokes.ipynb
+
 │ ├── healthcare-dataset-stroke-data.csv
+
 │ └── model_stroke.joblib
 
 
